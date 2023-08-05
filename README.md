@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yo, Im Fahmi Ir'fa Rizal I love to laugh.
+Yo, Im Fahmi Ir'fa Rizal and I love to laugh.
 
 
 ## 🌐 Socials:
