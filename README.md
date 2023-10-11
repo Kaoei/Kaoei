@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yo, Im Fahmi Ir'fa Rizal and I love to laugh.
+Hi, Im Fahmi Ir'fa Rizal a Junior Programmer and I love to Learn Something New!
 
 
 ## 🌐 Socials:
