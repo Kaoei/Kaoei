@@ -34,8 +34,6 @@
  
  <div align="center">
   <h1>Code addiction</h1> 
-  ### Random Dev Quote For My Motivation
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
    <br>
     <a href="https://www.znaindev.my.id">-- F A H M I  / K A O E I  --</a>
  </div>
