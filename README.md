@@ -33,7 +33,5 @@
  </details>
  
  <div align="center">
-  <h1>Code addiction</h1> 
-   <br>
     <a href="https://www.znaindev.my.id">-- F A H M I  / K A O E I  --</a>
  </div>
