@@ -29,14 +29,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaoei&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote For My Motivation
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
  </details>
  
  <div align="center">
   <h1>Code addiction</h1> 
-   <img src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-9.gif" alt="arigatou"/>
+  ### Random Dev Quote For My Motivation
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
    <br>
     <a href="https://www.znaindev.my.id">-- F A H M I  / K A O E I  --</a>
  </div>
