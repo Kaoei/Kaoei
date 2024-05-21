@@ -4,7 +4,7 @@
 ### About Me
 
  - Im Fahmi Ir'fa rizal
- - Junior fullstack developer, begineer ui/ux designer.
+ - Junior fullstack developer, and beginner Penetration Tester
  
 [![](https://visitcount.itsvg.in/api?id=Kaoei&icon=2&color=5)](https://visitcount.itsvg.in)
 
