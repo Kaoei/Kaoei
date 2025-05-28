@@ -33,5 +33,5 @@
  </details>
  
  <div align="center">
-    <a href="https://www.znaindev.my.id">-- F A H M I  / K A O E I  --</a>
+    <a href="">-- F A H M I  / K A O E I  --</a>
  </div>
